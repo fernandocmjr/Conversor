@@ -1,0 +1,10 @@
+D:\NumerosRomanos\Conversor\Conversor\bin\Debug\Conversor.exe.config
+D:\NumerosRomanos\Conversor\Conversor\bin\Debug\Conversor.exe
+D:\NumerosRomanos\Conversor\Conversor\bin\Debug\Conversor.pdb
+D:\NumerosRomanos\Conversor\Conversor\obj\Debug\Conversor.FrmCalculadora.resources
+D:\NumerosRomanos\Conversor\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+D:\NumerosRomanos\Conversor\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+D:\NumerosRomanos\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+D:\NumerosRomanos\Conversor\Conversor\obj\Debug\Conversor.exe
+D:\NumerosRomanos\Conversor\Conversor\obj\Debug\Conversor.pdb
+D:\NumerosRomanos\Conversor\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
